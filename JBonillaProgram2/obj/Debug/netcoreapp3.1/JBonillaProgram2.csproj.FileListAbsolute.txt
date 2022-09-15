@@ -1,0 +1,32 @@
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.exe
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.deps.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.runtimeconfig.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.runtimeconfig.dev.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.dll
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.pdb
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.csproj.AssemblyReference.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.Program2.resources
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.csproj.GenerateResource.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.GeneratedMSBuildEditorConfig.editorconfig
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.AssemblyInfoInputs.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.AssemblyInfo.cs
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.csproj.CoreCompileInputs.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.dll
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.pdb
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.genruntimeconfig.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.exe
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.deps.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.runtimeconfig.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.runtimeconfig.dev.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.dll
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\bin\Debug\netcoreapp3.1\JBonillaProgram2.pdb
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.csproj.AssemblyReference.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.Program2.resources
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.csproj.GenerateResource.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.GeneratedMSBuildEditorConfig.editorconfig
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.AssemblyInfoInputs.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.AssemblyInfo.cs
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.csproj.CoreCompileInputs.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.dll
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.pdb
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 1\JBonillaProgram2\obj\Debug\netcoreapp3.1\JBonillaProgram2.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4a0UbBcgBT32hagwSz9PECNGoK1P5QOljHWPvUVwJN8KU3kW6VedxKc+WFT9it4lInIveSp/zw36+TCAO42Pg==",
+  "success": true,
+  "projectFilePath": "S:\\CIS605\\Bonilla,Julissa (julissab)\\Assignments\\Assignment Set 1\\JBonillaProgram1\\JBonillaProgram1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julissab\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
