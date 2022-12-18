@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="JBonillaProgram10.PropertyTax">
+    <Position X="4" Y="0.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAIAAAAEBACEAAIABABAAAIiQhAgAAAAA=</HashCode>
+      <FileName>PropertyTax.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ProperyLocation" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="JBonillaProgram10.LocationType">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>PropertyTax.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

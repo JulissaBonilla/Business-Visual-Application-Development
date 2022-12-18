@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBonillaProgram8", "JBonillaProgram8.csproj", "{46DCDD4F-6480-4E91-B65C-5EF24B23588B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DCDD4F-6480-4E91-B65C-5EF24B23588B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DCDD4F-6480-4E91-B65C-5EF24B23588B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DCDD4F-6480-4E91-B65C-5EF24B23588B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DCDD4F-6480-4E91-B65C-5EF24B23588B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19505212-82D0-449A-842D-4538C5D5E59E}
+	EndGlobalSection
+EndGlobal
