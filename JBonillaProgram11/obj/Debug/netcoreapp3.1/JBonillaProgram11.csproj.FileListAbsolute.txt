@@ -1,0 +1,32 @@
+C:\Users\julissab\source\repos\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.exe
+C:\Users\julissab\source\repos\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.deps.json
+C:\Users\julissab\source\repos\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.runtimeconfig.json
+C:\Users\julissab\source\repos\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.runtimeconfig.dev.json
+C:\Users\julissab\source\repos\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.dll
+C:\Users\julissab\source\repos\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.pdb
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.csproj.AssemblyReference.cache
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.Program11.resources
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.csproj.GenerateResource.cache
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.AssemblyInfoInputs.cache
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.AssemblyInfo.cs
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.csproj.CoreCompileInputs.cache
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.dll
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.pdb
+C:\Users\julissab\source\repos\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.genruntimeconfig.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.exe
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.deps.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.runtimeconfig.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.runtimeconfig.dev.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.dll
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\bin\Debug\netcoreapp3.1\JBonillaProgram11.pdb
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.csproj.AssemblyReference.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.Program11.resources
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.csproj.GenerateResource.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.GeneratedMSBuildEditorConfig.editorconfig
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.AssemblyInfoInputs.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.AssemblyInfo.cs
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.csproj.CoreCompileInputs.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.dll
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.pdb
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\Assignment Set 5\JBonillaProgram11\obj\Debug\netcoreapp3.1\JBonillaProgram11.genruntimeconfig.cache

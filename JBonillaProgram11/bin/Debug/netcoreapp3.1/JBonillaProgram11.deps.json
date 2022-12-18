@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JBonillaProgram11/1.0.0": {
+        "runtime": {
+          "JBonillaProgram11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JBonillaProgram11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
