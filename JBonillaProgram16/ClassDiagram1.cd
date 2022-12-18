@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="JBonillaProgram16.Charter">
+    <Position X="0.5" Y="0.5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAIAAAAAAAAAACAQEAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Charter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JBonillaProgram16.CharterManager">
+    <Position X="0.5" Y="3" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEgAAAAAAAAAIAAAAAAAEAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CharterManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

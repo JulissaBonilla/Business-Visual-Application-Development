@@ -1,0 +1,17 @@
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.csproj.AssemblyReference.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.Program14.resources
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.Program15.resources
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.csproj.GenerateResource.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.GeneratedMSBuildEditorConfig.editorconfig
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.AssemblyInfoInputs.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.AssemblyInfo.cs
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.csproj.CoreCompileInputs.cache
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\bin\Debug\netcoreapp3.1\CIS605AS6.exe
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\bin\Debug\netcoreapp3.1\CIS605AS6.deps.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\bin\Debug\netcoreapp3.1\CIS605AS6.runtimeconfig.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\bin\Debug\netcoreapp3.1\CIS605AS6.runtimeconfig.dev.json
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\bin\Debug\netcoreapp3.1\CIS605AS6.dll
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\bin\Debug\netcoreapp3.1\CIS605AS6.pdb
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.dll
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.pdb
+S:\CIS605\Bonilla,Julissa (julissab)\Assignments\CIS605AS6\CIS605AS6\obj\Debug\netcoreapp3.1\CIS605AS6.genruntimeconfig.cache
