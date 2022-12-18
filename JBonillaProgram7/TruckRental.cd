@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JBonillaProgram7.TruckRental">
+    <Position X="2.5" Y="1.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQBAAAEAAAABAAAAAAAQAAAAAAAwAAgAAAAAAA=</HashCode>
+      <FileName>TruckRental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
